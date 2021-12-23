@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "rahul.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'rahul.app.jwtSecret'"
+  },
+  {
+    "name": "rahul.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'rahul.app.jwtExpirationMs'"
+  },
+  {
+    "name": "rahul,app,jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'rahul,app,jwtCookieName'"
+  },
+  {
+    "name": "spring.data,mongodb.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data,mongodb.host'"
+  },
+  {
+    "name": "rahul.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'rahul.app.jwtExpirationMs'"
+  },
+  {
+    "name": "rahul.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'rahul.app.jwtSecret'"
+  },
+  {
+    "name": "rahul,app,jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'rahul,app,jwtCookieName'"
+  },
+  {
+    "name": "rahul.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'rahul.app.jwtExpirationMs'"
+  }
+]}
